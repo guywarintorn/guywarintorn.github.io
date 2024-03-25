@@ -1,0 +1,61 @@
+.hero-section {
+  height: 100vh;
+  text-align: center;
+}
+
+.hero-section {
+  background-image: url(/image/pexels-satoshi-hirayama-1633791.jpg);
+  background-position: cover;
+  background-size: cover;
+}
+
+.hero-text {
+  padding-top: 40vh;
+}
+
+.about-section {
+  height: 100%;
+  text-align: center;
+  background-color: #F7F7F7;
+}
+
+.text-about {
+  padding-top: 10vh;
+}
+
+.profile-img img {
+  padding: 10px;
+  height: 120px;
+  width: 120px;
+  border-radius: 75px;
+  object-fit: cover;
+  object-position: 50% 30%;
+}
+
+.social-icon i {
+  margin: 20px 10px;
+}
+
+.social-icon {
+  margin-bottom: 100px;
+}
+
+.fa-brands, .fa-solid {
+  color: #000;
+  cursor: pointer;
+}
+
+.fa-brands:visited, .fa-solid:visited {
+  color: #000;
+}
+
+.contact-section {
+  background-color: rgb(87, 87, 87);
+  color: white;
+  margin-top: 100px;
+  padding-top: 50px;
+}
+
+.contact-info {
+  padding: 20px; 
+}
